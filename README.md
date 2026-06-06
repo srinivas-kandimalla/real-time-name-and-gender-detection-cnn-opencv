@@ -4,12 +4,6 @@ A computer vision project that detects faces in real-time using a webcam and pre
 
 ---
 
-## Project Output
-
-![Detection Output](outputs/detection_output.png)
-
----
-
 ## Features
 
 - Real-time face detection
